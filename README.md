@@ -14,12 +14,12 @@ For this project, different emphasis settings of SCIP form the available portfol
 The repository is structured as follows.
 
 1. In **Data-Scrubber** reside scripts to transform and filter the original, raw feature and performance data. The directory also contains code for a feature-independent algorithm selector that serves as a comparison for the more advanced methods. 
-
+2. The directory **Feature-Investigator** contains scripts and plots to analyze the feature landscape.
 
 ## Authors
 
-- David Haley: Data-Scrubber
-
+- David Haley: Data-Scrubber, Feature-Investigator
+- Alexander Georges: Feature-Investigator
 
 
 
