@@ -1,0 +1,8 @@
+naive: yes
+RandomForestClassifier: yes
+LogisticRegression: yes
+DecisionTreeClassifier: yes
+SVC: yes
+LinearSVC: yes
+KNeighborsClassifier: yes
+RandomForestClassifier: yes

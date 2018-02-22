@@ -1,0 +1,17 @@
+naive: yes
+rfr_reduced_mip-all_mip-PD: yes
+rfr_reduced+boosted_mip-all_mip-PD: yes
+rfr_reduced+boosted_mip-all-full-PCA_mip-PD: yes
+rfr_reduced_mip-all_reduced-byPCA_mip-PD: yes
+rfr_boosted_mip-all-full-PCA_mip-PD: yes
+rfr_mip-all-full-PCA_mip-PD: yes
+rfr_boosted_mip-all_mip-PD: yes
+rfr_mip-all_reduced-byPCA_mip-PD: yes
+rfr_reduced_mip-all-full-PCA_mip-PD: yes
+rfr_mip-all-reduced-PCA_mip-PD: yes
+rfr_boosted_mip-all-reduced-PCA_mip-PD: yes
+rfr_boosted_mip-all_reduced-byPCA_mip-PD: yes
+rfr_mip-all_mip-PD: yes
+rfr_reduced+boosted_mip-all-reduced-PCA_mip-PD: yes
+rfr_reduced_mip-all-reduced-PCA_mip-PD: yes
+rfr_reduced+boosted_mip-all_reduced-byPCA_mip-PD: yes

@@ -1,0 +1,5 @@
+Naive Classifier: yes
+KNeighborsClassifier Hydra: yes
+RFClassifier Hydra: yes
+RFRegressor: no
+RFRegressor reduced AdaBoost: no

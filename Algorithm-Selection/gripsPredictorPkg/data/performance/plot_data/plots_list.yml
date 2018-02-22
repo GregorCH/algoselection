@@ -1,0 +1,3 @@
+TestClassifier: yes
+KNeighborsClassifier: yes
+RandomForestClassifier: yes

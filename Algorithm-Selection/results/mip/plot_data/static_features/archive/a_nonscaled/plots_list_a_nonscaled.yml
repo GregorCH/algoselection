@@ -1,0 +1,17 @@
+naive: yes
+rfr_r_mip-all_mip-PD: yes
+rfr_b_mip-all_reducedPCA_mip-PD: yes
+rfr_mip-all_mip-PD: yes
+rfr_mip-all_reducedPCA_mip-PD: yes
+rfr_b_mip-PCA-all_mip-PD: yes
+rfr_r_mip-PCA-all_mip-PD: yes
+rfr_br_mip-pca-all_mip-PD: yes
+rfr_r_mip-pca-all_mip-PD: yes
+rfr_mip-PCA-all_mip-PD: yes
+rfr_b_mip-pca-all_mip-PD: yes
+rfr_br_mip-all_mip-PD: yes
+rfr_r_mip-all_reducedPCA_mip-PD: yes
+rfr_br_mip-PCA-all_mip-PD: yes
+rfr_mip-pca-all_mip-PD: yes
+rfr_b_mip-all_mip-PD: yes
+rfr_br_mip-all_reducedPCA_mip-PD: yes

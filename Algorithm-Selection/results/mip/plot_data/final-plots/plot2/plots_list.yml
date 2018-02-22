@@ -1,0 +1,5 @@
+Feature Independent: yes
+RFclass Hydra dynamic: yes
+RFclass Hydra static: yes
+RFregress Ada Reduce static: yes
+RFregress static: yes

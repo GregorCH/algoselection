@@ -1,0 +1,7 @@
+naive: yes
+reduced_RandomForestClassifier: yes
+reduced_KNeighborsClassifier: yes
+reduced_DecisionTreeClassifier: yes
+reduced_LogisticRegression: yes
+reduced_SVC: yes
+reduced_LinearSVC: yes

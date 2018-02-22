@@ -1,0 +1,16 @@
+scaled2_rfr_mip-all_mip-PD: yes
+scaled2_rfr_b_mip-all-pca_mip-PD: yes
+scaled2_rfr_r_mip-all_mip-PD: yes
+scaled2_rfr_mip-all-pca_mip-PD: yes
+scaled2_rfr_b_mip-all_reducedPCA_mip-PD: yes
+scaled2_rfr_b_mip-all_mip-PD: yes
+scaled2_rfr_br_mip-all_reducedPCA_mip-PD: yes
+scaled2_rfr_r_mip-all-pca_mip-PD: yes
+scaled2_rfr_r_mip-all-PCA_mip-PD: yes
+scaled2_rfr_br_mip-all-pca_mip-PD: yes
+scaled2_rfr_b_mip-all-PCA_mip-PD: yes
+scaled2_rfr_mip-all_reducedPCA_mip-PD: yes
+scaled2_rfr_br_mip-all-PCA_mip-PD: yes
+scaled2_rfr_br_mip-all_mip-PD: yes
+scaled2_rfr_r_mip-all_reducedPCA_mip-PD: yes
+scaled2_rfr_mip-all-PCA_mip-PD: yes

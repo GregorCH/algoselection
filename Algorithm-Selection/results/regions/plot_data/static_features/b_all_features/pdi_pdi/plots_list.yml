@@ -1,0 +1,6 @@
+DecisionTreeClassifier: yes
+RandomForestClassifier: yes
+KNeighborsClassifier: yes
+RandomForestClassifier: yes
+KNeighborsClassifier: yes
+DecisionTreeClassifier: yes

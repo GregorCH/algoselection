@@ -1,0 +1,7 @@
+naive: yes
+pca_DecisionTreeClassifier: yes
+pca_KNeighborsClassifier: yes
+pca_LinearSVC: yes
+pca_LogisticRegression: yes
+pca_RandomForestClassifier: yes
+pca_SVC: yes

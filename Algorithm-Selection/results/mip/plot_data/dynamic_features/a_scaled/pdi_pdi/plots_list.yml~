@@ -1,0 +1,4 @@
+rfr_boosted_mip-all-dynamic_mip-PD: yes
+rfr_mip-all-dynamic_mip-PD: yes
+rfr_reduced_mip-all-dynamic_mip-PD: yes
+rfr_reduced+boosted_mip-all-dynamic_mip-PD: yes
