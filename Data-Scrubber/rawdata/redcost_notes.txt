@@ -1,0 +1,11 @@
+_inst_combined.csv has all the instances, but
+all.csv has filtered out the seeds that do not have complete information
+
+timelimit seems to have been 3600s
+some PDints are also 360.000 supporting this observation
+
+some instances have PDint set to exactly 60.000 for all seeds
+ but it seems unlikely that these had such a specific and precise PDint based upon
+ the other performance data available
+ --possibly set this way in error due to our other experiments being capped at 60.000?
+ --more likely: set this way only for infeasible instances

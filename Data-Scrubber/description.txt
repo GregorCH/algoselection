@@ -1,0 +1,48 @@
+List of CSV files produced by the Data Scrubber:
+
+###############AVAILABLE IN MAIN DIRECTORY###################
+mipdev_avg_PD.csv
+#average PD integrals for feasible mipdev instances
+
+mipdev_feasible_avg_time.csv
+#average completion times for feasible mipdev instances
+
+mipdev_infeasible_avg_time.csv
+#average completion times for infeasible mipdev instances
+
+regions_avg_PD.csv
+#average PD integrals for regions instances
+
+regions_avg_time.csv
+#average completion time for regions instances
+
+
+
+
+###############AVAILABLE IN ALT_OUTPUT DIRECTORY###################
+mipdev_avg_PD_if_timelimit.csv
+#average PD integrals for feasible mipdev instances ONLY if they timed out
+
+mipdev_feasible_count_fail.csv
+#the number of times that feasible mipdev instances failed to solve (out of 5)
+
+mipdev_feasible_count_ok.csv
+#the number of times that feasible mipdev instances completed ok (out of 5)
+
+mipdev_feasible_count_timelimit.csv
+#the number of times that feasible mipdev instances timed out (out of 5)
+
+mipdev_infeasible_count_fail.csv
+#the number of times that feasible mipdev instances failed to solve (out of 5)
+
+mipdev_infeasible_count_ok.csv
+#the number of times that infeasible mipdev instances completed ok (out of 5)
+
+mipdev_infeasible_count_timelimit.csv
+#the number of times that infeasible mipdev instances timed out (out of 5)
+
+regions_count_ok.csv
+#the number of times that regions instances completed ok (out of 5)
+
+regions_count_timelimit.csv
+#the number of times that regions instances timed out (out of 5)
