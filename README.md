@@ -18,6 +18,8 @@ The repository is structured as follows.
 
 ## Authors
 
+- David Haley: Data-Scrubber
+
 
 
 
