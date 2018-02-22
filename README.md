@@ -13,6 +13,8 @@ For this project, different emphasis settings of SCIP form the available portfol
 
 The repository is structured as follows.
 
+1. In **Data-Scrubber**, recide scripts to transform and filter the original, raw feature and performance data
+
 
 ## Authors
 
