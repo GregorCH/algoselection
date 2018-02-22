@@ -13,7 +13,7 @@ For this project, different emphasis settings of SCIP form the available portfol
 
 The repository is structured as follows.
 
-1. In **Data-Scrubber**, recide scripts to transform and filter the original, raw feature and performance data
+1. In **Data-Scrubber** reside scripts to transform and filter the original, raw feature and performance data. The directory also contains code for a feature-independent algorithm selector that serves as a comparison for the more advanced methods. 
 
 
 ## Authors
